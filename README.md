@@ -1,4 +1,4 @@
-#Linux組態檔
+#Linux組態檔#
 
 1. hosts
 
